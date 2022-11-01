@@ -88,7 +88,7 @@ export const SubmitButton = styled.button`
 	height: 46px;
 	width: 350px;
 	color: rgba(237,243,252,255);
-	font-weight: 700;
+	font-weight: 400;
 	transition: background-color 0.3s ;
 	&:hover {
 		background-color:rgba(237,243,252,255);
