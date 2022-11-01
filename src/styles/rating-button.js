@@ -19,7 +19,7 @@ export const GeneralPage = styled.div`
 	padding: 25px;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 250px;
+	margin-top: 200px;
 	border-radius: 5%;
 	@media (max-width: 375px) {
 		width: 250px;
