@@ -1,4 +1,4 @@
-import { SecondPage, ThanksImage, SelectedRating, Header2, RatingBoxDescription } from './rating-button.styled';
+import { SecondPage, ThanksImage, SelectedRating, Header2, RatingBoxDescription } from '../styles/rating-button';
 import { ReactComponent as ThankyouSVG } from '../images/illustration-thank-you.svg';
 
 

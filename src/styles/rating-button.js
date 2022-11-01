@@ -1,6 +1,5 @@
 import styled, { css } from 'styled-components';
 
-
 export const Header2 = styled.h2`
 	text-align: ${props => props.centered ? "center" : "left"};
 	margin-bottom: 10px;
@@ -11,7 +10,7 @@ export const Header2 = styled.h2`
 		margin-top: 16px;
 		font-size: 1rem;
 	}
-`
+`;
 
 export const GeneralPage = styled.div`
 	background-color: rgba(30,37,47,255);
@@ -32,7 +31,7 @@ export const GeneralPage = styled.div`
 
 export const FirstPage = styled(GeneralPage)`
 	display: ${props => props.$visibility ? 'block' : 'none'};
-`
+`;
 
 export const GeneralButton = css`
 	transition: background-color 0.3s ;
@@ -59,7 +58,7 @@ export const RatingButton = styled.input`
 		background-color: hsl(25, 97%, 53%);
 		color: rgba(237,243,252,255);
 	}
-`
+`;
 
 export const StarButton = styled.div`
 	${GeneralButton}
@@ -71,7 +70,7 @@ export const StarButton = styled.div`
 		height: 28px;
 		padding-top: 12px;
 	}
-`
+`;
 
 export const SubmitButton = styled.button`
 	margin-top: 30px;
@@ -91,22 +90,23 @@ export const SubmitButton = styled.button`
 	@media (max-width: 375px) {
 		width: 240px;
 	}
-`
+`;
 export const RatingButtonContainers = styled.div`
 	margin-top: 20px;
 	display: flex;
 	justify-content: space-between;
-`
+`;
+
 export const SecondPage = styled(GeneralPage)`
 	display: ${props => props.$visibility ? 'block' : 'none'};
 
-`
+`;
 
 export const ThanksImage = styled.div`
 	margin-top: 12px;
 	text-align: center;
 	/* height: 20px; */
-`
+`;
 
 export const SelectedRating = styled.div`
 	margin: 32px auto 30px auto;
@@ -128,7 +128,8 @@ export const SelectedRating = styled.div`
 		width: 170px;
 		height: 20px;
 	}
-`
+`;
+
 export const RatingBoxDescription = styled.div`
 	text-align: ${props => props.centered ? "center" : "left"};
 	color: hsl(217, 12%, 63%);;
@@ -139,4 +140,4 @@ export const RatingBoxDescription = styled.div`
 		font-size: 0.69rem;
 		line-height: 1.1rem;
 	}
-`
+`;
