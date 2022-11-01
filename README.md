@@ -28,11 +28,10 @@ Users should be able to:
 ### Preview
 
 #### Desktop View
-<a href="https://gyazo.com/bee40b106ee7bcabfc8e4f073ab8e50b"><img src="https://i.gyazo.com/bee40b106ee7bcabfc8e4f073ab8e50b.gif" alt="Image from Gyazo" width="1178"/></a>
+<a href="https://gyazo.com/be58e12ac8b007060f3c3688d9d49bd1"><img src="https://i.gyazo.com/be58e12ac8b007060f3c3688d9d49bd1.gif" alt="Image from Gyazo" width="1280"/></a>
 
 #### Mobile View
-<a href="https://gyazo.com/6043bc10bf8c6126b9a3dfd662de6691"><img src="https://i.gyazo.com/6043bc10bf8c6126b9a3dfd662de6691.gif" alt="Image from Gyazo" width="446"/></a>
-
+<a href="https://gyazo.com/507e0fd79965c81b0b139d984fc68e0a"><img src="https://i.gyazo.com/507e0fd79965c81b0b139d984fc68e0a.gif" alt="Image from Gyazo" width="436"/></a>
 ### Links
 
 - Solution URL: https://github.com/miofri/fem-interactive-rating-component-main
