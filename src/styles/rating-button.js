@@ -21,12 +21,20 @@ export const GeneralPage = styled.div`
 	margin-right: auto;
 	margin-top: 200px;
 	border-radius: 5%;
+
+	@media (max-width: 412px) {
+		width: 250px;
+		height: 280px;
+		padding: 20px;
+		margin-top: 200px;
+	}
 	@media (max-width: 375px) {
 		width: 250px;
 		height: 280px;
 		padding: 20px;
-		margin-top: 130px;
+		margin-top: 100px;
 	}
+
 `;
 
 export const FirstPage = styled(GeneralPage)`
@@ -42,7 +50,7 @@ export const GeneralButton = css`
 	border-radius: 60%;
 	-webkit-border-radius: 60%;
 	color: hsl(217, 12%, 63%);
-	@media (max-width: 375px) {
+	@media (max-width: 412px) {
 		width: 40px;
 		height: 40px;
 	}
@@ -65,7 +73,7 @@ export const StarButton = styled.div`
 	text-align: center;
 	height: 35px;
 	padding-top: 15px;
-	@media (max-width: 375px) {
+	@media (max-width: 412px) {
 		width: 40px;
 		height: 28px;
 		padding-top: 12px;
@@ -87,7 +95,7 @@ export const SubmitButton = styled.button`
 		color:hsl(25, 97%, 53%);
 	}
 
-	@media (max-width: 375px) {
+	@media (max-width: 412px) {
 		height: 40px;
 		width: 240px;
 	}
@@ -121,7 +129,7 @@ export const SelectedRating = styled.div`
 	color: hsl(25, 97%, 53%);
 	background-color: rgba(38,47,54,255);
 
-	@media (max-width: 375px) {
+	@media (max-width: 412px) {
 		margin-top: 20px;
 		margin-bottom: 5px;
 		padding-top: 6px;
@@ -137,7 +145,7 @@ export const RatingBoxDescription = styled.div`
 	font-weight: 400;
 	font-size: 0.93rem;
 	line-height: 1.5rem;
-	@media (max-width: 375px) {
+	@media (max-width: 412px) {
 		font-size: 0.69rem;
 		line-height: 1.1rem;
 	}
