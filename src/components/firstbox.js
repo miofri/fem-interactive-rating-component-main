@@ -36,7 +36,7 @@ export const FirstBox = ({ setRatingVal, ratingVal, setShowSecondBox, setShowFir
 					<RatingButton type="button" value="5" onClick={setRatingOnClick}></RatingButton>
 				</RatingButtonContainers>
 
-				<SubmitButton type='submit' onClick={hideFirstBox}>S U B M I T</SubmitButton>
+				<SubmitButton type='submit' onClick={hideFirstBox}>SUBMIT</SubmitButton>
 			</form>
 		</FirstPage >)
 }

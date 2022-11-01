@@ -77,7 +77,7 @@ export const SubmitButton = styled.button`
 	background-color: hsl(25, 97%, 53%);
 	border-radius: 18px;
 	border-color: transparent;
-	height: 40px;
+	height: 46px;
 	width: 350px;
 	color: rgba(237,243,252,255);
 	font-weight: 700;
@@ -88,6 +88,7 @@ export const SubmitButton = styled.button`
 	}
 
 	@media (max-width: 375px) {
+		height: 40px;
 		width: 240px;
 	}
 `;
