@@ -7,7 +7,6 @@ export const FirstBox = ({ setRatingVal, ratingVal, setShowSecondBox, setShowFir
 	const setRatingOnClick = (event) => {
 		setRatingVal(event.target.value);
 	}
-	console.log(ratingVal);
 
 	const hideFirstBox = (event) => {
 		event.preventDefault();
