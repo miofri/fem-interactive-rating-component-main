@@ -28,10 +28,10 @@ Users should be able to:
 ### Preview
 
 #### Desktop View
-<a href="https://gyazo.com/4ffb984789eb2a566ffef52bdaf02909"><img src="https://i.gyazo.com/4ffb984789eb2a566ffef52bdaf02909.gif" alt="Image from Gyazo" width="1280"/></a>
+<a href="https://gyazo.com/bee40b106ee7bcabfc8e4f073ab8e50b"><img src="https://i.gyazo.com/bee40b106ee7bcabfc8e4f073ab8e50b.gif" alt="Image from Gyazo" width="1178"/></a>
 
 #### Mobile View
-<a href="https://gyazo.com/0c5c04ea2560acb8c402f5f5ef0c49c9"><img src="https://i.gyazo.com/0c5c04ea2560acb8c402f5f5ef0c49c9.gif" alt="Image from Gyazo" width="436"/></a>
+<a href="https://gyazo.com/6043bc10bf8c6126b9a3dfd662de6691"><img src="https://i.gyazo.com/6043bc10bf8c6126b9a3dfd662de6691.gif" alt="Image from Gyazo" width="446"/></a>
 
 ### Links
 
