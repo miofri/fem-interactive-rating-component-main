@@ -1,4 +1,4 @@
-import { FirstPage, StarButton, Header2, RatingBoxDescription, RatingButtonContainers, RatingButton, SubmitButton } from "../styles/rating-button.styled";
+import { FirstPage, StarButton, Header2, RatingBoxDescription, RatingButtonContainers, RatingButton, SubmitButton } from "./rating-button.styled";
 import { ReactComponent as StarSVG } from '../images/icon-star.svg';
 
 
